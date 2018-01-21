@@ -6,7 +6,7 @@ public class test2 {
 	private String address;
 	
 	public test2(int id, String name, String address) {
-		// 增加了注释
+		// 增加了注释，增加了注释
 		super();
 		this.id = id;
 		this.name = name;
